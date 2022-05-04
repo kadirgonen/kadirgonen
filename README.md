@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on freelancer
 - 🌱 I’m currently learning Go 
 - 💬 Ask me about Matlab
-- 📫 How to reach me: [@kadirgonen](https://twitter.com/kadirgonen3)
+- 📫 How to reach me: [@kadirgonen](https://twitter.com/kadirgonen3) / [@kadirgonen](https://www.linkedin.com/in/kadirgonen/)
 - ⚡ Fun fact: Football, travel, taking photos and Formula 1
 
 
