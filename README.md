@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/kadirgonen41/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kadirgonen"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/kadirgonen3"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://medium.com/kadirgnen"><img src="https://img.shields.io/badge/medium-1DA1F2.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
