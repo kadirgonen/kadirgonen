@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img align="left" alt="python" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="go"  width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="go"  width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />
+---
+
+
 
 <p>
 📣 Need to contact me? find me here :<br/>
