@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 
 <p>
+  
 📣 Need to contact me? find me here :<br/>
 <a href="mailto:kadirgnen3@gmail.com?subject=[GitHub]%20🔥%20Getting%20in%20contact&body=Hello%20Kadir%2C%0A%0AI%20come%20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://instagram.com/kadirgonen41/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
