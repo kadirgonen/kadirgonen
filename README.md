@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * HTML, CSS
 * C#, MATLAB
 * Phyton
+* Android(Java)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="postgresql"  width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /> 
 <img align="left" alt="python" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="go"  width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" /> 
-
+<img align="left" alt="go"  width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />
 ---
 
 
